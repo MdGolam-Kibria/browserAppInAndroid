@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">brawapp</string>
+    <string name="forSerch">write url here</string>
+    <string name="forbtn">Search</string>
+    <string name="forSnd">Google Account</string>
+</resources>
